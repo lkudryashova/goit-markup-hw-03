@@ -162,6 +162,9 @@ button {
   padding: 16px 32px;
   display: block;
   margin: 0 auto;
+  min-width: 169px;
+  height: 56px;
+  bottom: none;
 }
 
 .hero-order-btn:hover,
