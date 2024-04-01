@@ -164,7 +164,7 @@ button {
   margin: 0 auto;
   min-width: 169px;
   height: 56px;
-  bottom: none;
+  border: none;
 }
 
 .hero-order-btn:hover,
